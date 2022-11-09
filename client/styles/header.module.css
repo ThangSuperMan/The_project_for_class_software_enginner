@@ -1,0 +1,20 @@
+.header {
+  padding: 15px 30px;
+  border: 1px solid orange;
+  display: flex;
+  align-items: center;
+}
+
+.headerMenu {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+.headerMenu li {
+  padding: 7.5px 9px;
+}
+
+.headerMenuLink:hover {
+  color: #e3973b;
+}
